@@ -1,0 +1,311 @@
+{
+  "designCollection": "all",
+  "heroLayout": "atelier",
+  "heroLabelText": "",
+  "heroLabelSize": "auto",
+  "heroTitleFont": "default",
+  "heroTextColor": "#fffaf6",
+  "heroPosition": "end",
+  "heroAlignment": "center",
+  "heroBlockPosition": "center",
+  "heroWidth": "88",
+  "heroSpacing": "16",
+  "heroTitleLeading": "",
+  "heroTitleTracking": "",
+  "heroOrder": "classic",
+  "preset": "boda",
+  "themeVisual": "school_atelier",
+  "fontPreset": "default",
+  "motionPreset": "cinematic",
+  "motionIntensity": "med",
+  "title": "Cassandra & Armando",
+  "subtitle": "Tu presencia hará este momento aún más especial.",
+  "buttonText": "Descubrir invitación",
+  "heroOffset": "172",
+  "buttonStyle": "glass_soft",
+  "overlayColor": "#201712",
+  "overlayOpacity": "0.1",
+  "colorPalette": "terracotta_linen",
+  "primaryColor": "#b66c4e",
+  "textColor": "#43322a",
+  "headingColor": "#673b2b",
+  "mutedColor": "#8d7165",
+  "bgBodyColor": "#ebe0d5",
+  "bgContentColor": "#fbf7f1",
+  "contentBgOpacity": "0.8",
+  "contentBlur": "none",
+  "buttonOpacity": "0.2",
+  "eventDate": "2026-12-19T16:00",
+  "countdownLabel": "Falta para nuestro gran día",
+  "countdownStyle": "simple",
+  "dateCardStyle": "minimal",
+  "heartStyle": "minimal",
+  "locationsBgColor": "#fbf7f1",
+  "locationsBgOpacity": "82",
+  "ceremonyText": "Ceremonia religiosa · Iglesia Santo Domingo 4:00pm",
+  "ceremonyUrl": "https://maps.app.goo.gl/9LewWgHxey2v9Qf69",
+  "ceremonyCoords": "20.141658, -104.2130956",
+  "receptionText": "Recepción · Lienzo charro Juan Soltero",
+  "receptionUrl": "https://maps.app.goo.gl/ygfAPLtfJBsUMg6b7",
+  "receptionCoords": "20.1398637, -104.21481",
+  "videoLabel": "",
+  "videoText": "",
+  "videoUrl": "",
+  "whatsappNumber": "523322283006",
+  "whatsappMessage": "Hola, quiero confirmar mi asistencia.",
+  "mainMessage": "Será una gran noticia contar con su presencia.",
+  "orderLocations": "3",
+  "orderConfirm": "7",
+  "orderCountdown": "2",
+  "orderGallery": "5",
+  "orderBannerExtra": "6",
+  "orderBannerExtra2": "7",
+  "orderMessage": "8",
+  "orderVideo": "9",
+  "galleryStyle": "collage",
+  "galleryLabel": "",
+  "galleryTitle": "",
+  "galleryFocusY": "50",
+  "galleryOffsets": "[50,50,50,50,50,50,50,50,50,50,50,50,50,50,29,50,50,29,50,50,28,50,50,22,50,30,50,50,50,24,50]",
+  "titleSize": "s",
+  "subtitleSize": "auto",
+  "buttonTextSize": "auto",
+  "countdownLabelSize": "auto",
+  "dateTextSize": "m",
+  "countdownNumbersSize": "auto",
+  "locationsHeadingSize": "auto",
+  "ceremonyTextSize": "auto",
+  "receptionTextSize": "auto",
+  "rsvpHeadingSize": "auto",
+  "rsvpCopySize": "auto",
+  "rsvpButtonSize": "xs",
+  "bgFit": "cover",
+  "bgFocusX": "37",
+  "bgFocusY": "50",
+  "bgOverlayOpacity": "0.54",
+  "mainMessageSize": "auto",
+  "videoLabelSize": "auto",
+  "videoTextSize": "auto",
+  "galleryLabelSize": "auto",
+  "galleryTitleSize": "auto",
+  "showHeroLabel": true,
+  "showHeroButton": true,
+  "showHeroScroll": false,
+  "showCeremony": true,
+  "showReception": true,
+  "continuityStyle": "editorial",
+  "familyLabel": "Con el cariño de",
+  "familyHeading": "Quienes nos acompañan desde el corazón",
+  "parentsLabel": "Papás",
+  "parentsText": "",
+  "godparentsLabel": "Padrinos",
+  "godparentsText": "",
+  "familyTextSize": "auto",
+  "orderFamily": "2",
+  "closingSignature": "Cassandra & Armando",
+  "closingSignatureFont": "script_greatvibes",
+  "showFamily": true,
+  "showClosingSignature": true,
+  "showTransfer": false,
+  "transferNumber": "",
+  "orderTransfer": "10",
+  "galleryFrames": [
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 23,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 29,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 29,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 28,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 22,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 30,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 24,
+      "fit": "cover"
+    },
+    {
+      "x": 50,
+      "y": 50,
+      "fit": "cover"
+    }
+  ],
+  "transferLabel": "",
+  "transferText": "",
+  "bannerMode": "horizontal",
+  "bannerExtraMode": "horizontal",
+  "bannerExtra2Mode": "horizontal",
+  "showHeroNav": true,
+  "heroNavStyle": "icon_cards",
+  "mapDisplayMode": "toggle",
+  "heroButtonModel": "original",
+  "heroButtonSize": "medium",
+  "heroButtonShape": "auto",
+  "heroButtonIcon": "auto",
+  "heroButtonColor": "#a88a58",
+  "heroButtonUsePalette": true,
+  "shareTitle": "",
+  "shareDescription": "",
+  "sharePublicUrl": "",
+  "heroNavSize": "small",
+  "musicPlacement": "cover",
+  "musicTitle": "Luna (Mtv Unplugged)",
+  "musicArtist": "Zoe",
+  "musicSectionLabel": "",
+  "orderMusic": "1",
+  "auraStaticTexts": "{\"locationTitle\":{\"text\":\"Aquí nos veremos este día tan importante.\",\"size\":\"\",\"font\":\"\",\"color\":\"\",\"align\":\"center\",\"weight\":\"\",\"shape\":\"original\",\"bg\":\"\",\"hide\":false}}",
+  "auraHeroPhotoX": "50",
+  "auraHeroPhotoY": "0",
+  "auraHeroCurveY": "90",
+  "blDateKicker": "CUENTA REGRESIVA",
+  "blDateTitle": "Nuestra fecha",
+  "blDateFooter": "UN MOMENTO PARA RECORDAR",
+  "blCeremonyAddress": "",
+  "blReceptionAddress": "",
+  "blDayFont": "manrope",
+  "blDaySize": "",
+  "blDayWeight": "400",
+  "blDayTracking": "",
+  "blDayColorMode": "theme",
+  "blDayColor": "#54493f",
+  "__auraSharePreviewReady5618": true,
+  "schemaVersion": 5.621,
+  "studioVersion": "5.6.21",
+  "weddingCollection": "10-estilos-diferenciados"
+}
